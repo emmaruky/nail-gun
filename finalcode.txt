@@ -13,7 +13,7 @@
       <stop offset="1" stop-color="#151515"/>
     </linearGradient>
 
-    <!-- Warm plastic like the cream parts in your ref image -->
+    <!-- Warm plastic like the cream part -->
     <linearGradient id="creamGrad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f8e7c2"/>
       <stop offset="1" stop-color="#e3c58f"/>
